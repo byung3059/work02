@@ -1057,7 +1057,13 @@
 }
 
 @media(max-width: 1025px) {
+    .sec10 .inner .txt_box01 {
+        margin: 0 0 24px 0;
+    }
 
+    .sec10 .inner .txt_box01 img {
+        width: 70%;
+    }
 
     .sec10 .table_inner tr:first-child td {
         font-size: 16px !important;
@@ -1185,6 +1191,9 @@
         margin: 0 0 16px 0;
     }
 
+    .sec11 .inner .txt_box01 img {
+        width: 50%;
+    }
 
     .sec11 .inner .txt_box02 {
         margin: 0 0 24px 0;
