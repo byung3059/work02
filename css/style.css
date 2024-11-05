@@ -1079,6 +1079,16 @@
 
     .sec10 .table_inner .tab_btn_box .tab_btn button {
         white-space: nowrap;
+        padding: 0 32px;
+        line-height: 40px;
+    }
+
+    .sec10 .table_inner .tab_btn_box {
+        gap: 10px;
+    }
+
+    .sec10 .table_inner .total {
+        background: #fff;
     }
 }
 
