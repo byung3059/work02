@@ -792,13 +792,13 @@
     font-size: 20px;
 }
 
-.sec07 .sec07_table .total td {
+.sec07 .sec07_ .total td {
     font-size: 26px;
     font-weight: 700;
     line-height: 80px;
 }
 
-.sec07 .sec07_table tr:last-child td {
+.sec07 .sec07_ tr:last-child td {
     line-height: 0;
 }
 
@@ -831,15 +831,15 @@
     }
 
 
-    .sec07 .sec07_table tr:first-child td {
+    .sec07 .sec07_ tr:first-child td {
         font-size: 16px !important;
     }
 
-    .sec07 .sec07_table .total td {
+    .sec07 .sec07_ .total td {
         font-size: 16px !important;
     }
 
-    .sec07 .sec07_table td {
+    .sec07 .sec07_ td {
         font-size: 14px;
     }
 }
@@ -953,7 +953,7 @@
     text-align: center;
 }
 
-.sec10 .table_inner {
+.sec10 ._inner {
     max-width: 1200px;
     margin: 0 auto;
     width: 100%;
@@ -991,6 +991,7 @@
 
 .sec10 .table_inner table {
     display: none;
+    background: #ffffff;
 }
 
 .sec10 .table_inner table.on {
